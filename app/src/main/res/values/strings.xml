@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarAreas</string>
+    <string name="person">name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="create_acc">Create A New Account?</string>
+</resources>

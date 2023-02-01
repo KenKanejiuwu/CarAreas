@@ -7,4 +7,10 @@
     <string name="sign_up">sign up</string>
     <string name="forgot">Forgot Password?</string>
     <string name="create_acc">Create A New Account?</string>
+    <string name="title_activity_wear_sign_in">WearSignInActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
 </resources>
